@@ -1,0 +1,8 @@
+{
+  "projects": [
+    {
+      "rootDirectory": "client",
+      "framework": "vite"
+    }
+  ]
+}
